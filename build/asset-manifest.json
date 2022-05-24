@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b4e8a6de.chunk.css",
+    "main.js": "/static/js/main.39aebb4c.chunk.js",
+    "main.js.map": "/static/js/main.39aebb4c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd5e62e5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd5e62e5.js.map",
+    "static/css/2.1881a404.chunk.css": "/static/css/2.1881a404.chunk.css",
+    "static/js/2.48ad6b07.chunk.js": "/static/js/2.48ad6b07.chunk.js",
+    "static/js/2.48ad6b07.chunk.js.map": "/static/js/2.48ad6b07.chunk.js.map",
+    "static/js/3.f5b401bb.chunk.js": "/static/js/3.f5b401bb.chunk.js",
+    "static/js/3.f5b401bb.chunk.js.map": "/static/js/3.f5b401bb.chunk.js.map",
+    "static/js/4.628e8dab.chunk.js": "/static/js/4.628e8dab.chunk.js",
+    "static/js/4.628e8dab.chunk.js.map": "/static/js/4.628e8dab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.b4e8a6de.chunk.css.map": "/static/css/main.b4e8a6de.chunk.css.map",
+    "static/js/2.48ad6b07.chunk.js.LICENSE.txt": "/static/js/2.48ad6b07.chunk.js.LICENSE.txt",
+    "static/media/BSCImg.691d3278.png": "/static/media/BSCImg.691d3278.png",
+    "static/media/EtheriumLogoImg.e867c9a9.png": "/static/media/EtheriumLogoImg.e867c9a9.png",
+    "static/media/MetaMaskImg.dabbc866.png": "/static/media/MetaMaskImg.dabbc866.png",
+    "static/media/PolygonImg.1140771b.png": "/static/media/PolygonImg.1140771b.png",
+    "static/media/bars.9a3b1eee.svg": "/static/media/bars.9a3b1eee.svg",
+    "static/media/dots.b26a595f.svg": "/static/media/dots.b26a595f.svg",
+    "static/media/logo.dfc28d4b.gif": "/static/media/logo.dfc28d4b.gif",
+    "static/media/marc.e8607287.jpg": "/static/media/marc.e8607287.jpg",
+    "static/media/payroll.c0115cb0.png": "/static/media/payroll.c0115cb0.png",
+    "static/media/puff.5cb52c34.svg": "/static/media/puff.5cb52c34.svg",
+    "static/media/sidebar-1.0a127c58.jpg": "/static/media/sidebar-1.0a127c58.jpg",
+    "static/media/sidebar-3.e667b13e.jpg": "/static/media/sidebar-3.e667b13e.jpg",
+    "static/media/sidebar-4.f4df82f0.jpg": "/static/media/sidebar-4.f4df82f0.jpg",
+    "static/media/spin.8c4c3c28.svg": "/static/media/spin.8c4c3c28.svg",
+    "static/media/walletconnect.0aecac1d.png": "/static/media/walletconnect.0aecac1d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd5e62e5.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.48ad6b07.chunk.js",
+    "static/css/main.b4e8a6de.chunk.css",
+    "static/js/main.39aebb4c.chunk.js"
+  ]
+}
